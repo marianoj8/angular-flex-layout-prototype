@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-flex-layout-prototype"
+    }
+  },
+  "defaultProject": "angular-flex-layout-prototype",
+  "cli": {
+    "analytics": "e0abc0a7-ecf4-4040-a967-e46b959383c2"
+  }
 }
